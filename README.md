@@ -20,7 +20,7 @@
 <p>Exécuter <code>start.bat</code></p>
 <p>Coller en faisant un clic droit le path directory précédemment copié (ou réécrire directement)</p>
 
-<h3>⚠️ Veiller à ne pas toucher le reste, cela évitera de devoir retélécharger le logigiciel...</h3>
+<h3>⚠️ Veiller à ne pas toucher le reste, cela évitera de devoir retélécharger le logiciel...</h3>
 
 
 <br>
