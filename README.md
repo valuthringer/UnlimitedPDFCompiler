@@ -1,6 +1,6 @@
 <h1>$\color{green}UnlimitedPDFCompiler$ for Python</h1>
 
-<h2>Logiciel exécutable via Python et permettant l'ajout de plusieurs fichiers PDF sur un seul et même fichier (compilateur PDF gratuit).</h2>
+<h2>Logiciel exécutable via Python et permettant l'ajout de plusieurs fichiers PDF sur un seul et même fichier (compilateur/fusionneur PDF gratuit).</h2>
 
 [Télécharge le zip du logiciel ici](https://github.com/valuthringer/UnlimitedPDFCompiler/archive/refs/heads/main.zip)
 
@@ -17,15 +17,9 @@
 <p>Le logiciel est ainsi installé !</p>
 
 <h2>Comment utiliser le logiciel ?</h2>
-<p>Ouvrir avec un éditeur de texte le fichier <code>pdf_fusionner.py</code> et modifier les lignes souhaitées :</p>
-<ul>
-  <li><code>pdf_file_path = 'chemin_du_pdf_a_modifier'</code></li>
-  <li><code>pdf_info['/Title'] = "votretitre"</code></li>
-  <li><code>pdf_info['/Author'] = "auteur"</code></li>
-  <li>...</li>
-</ul>
-<p>Enregistrer le fichier et fermer l'éditeur de texte.</p>
 <p>Exécuter <code>start.bat</code></p>
+<p>Coller en faisant un clic droit le path directory précédemment copié (ou réécrire directement)</p>
+
 <h3>⚠️ Veiller à ne pas toucher le reste, cela évitera de devoir retélécharger le logigiciel...</h3>
 
 
